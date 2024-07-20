@@ -1,0 +1,8 @@
+auto-save-list/
+backups/
+elpa
+.recentf
+eshell/
+ido.last
+transient/
+server/
